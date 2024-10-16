@@ -132,7 +132,7 @@ Esta sección explora los datos para extraer información relevante sobre los de
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/despidos-globales-mysql.git
+   git clone https://github.com/tu_usuario/MySQL_Proyecto.git
    ```
 2. Importa las tablas iniciales y sigue los pasos de limpieza en **Parte 1**.
 3. Ejecuta las consultas en **Parte 2** para analizar y obtener insights de los datos.
@@ -143,7 +143,7 @@ A través de este análisis, se obtuvieron insights importantes sobre el impacto
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia, puedes contactarme en [LinkedIn](https://www.linkedin.com/in/tu-perfil) o a través de GitHub.
+Si tienes alguna pregunta o sugerencia, puedes contactarme en [LinkedIn](https://www.linkedin.com/in/leonel-ale-45205b80/) o a través de GitHub.
 
 ---
 
